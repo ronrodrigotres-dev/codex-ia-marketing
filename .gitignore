@@ -1,0 +1,36 @@
+﻿.vscode/
+.idea/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.log
+.DS_Store
+kpis_output.csv
+# Terraform
+.terraform/
+infra/.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.lock.hcl
+
+# Binarios y paquetes grandes
+*.exe
+*.zip
+*.tar.gz
+# Terraform
+infra/.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+# Binarios grandes
+*.zip
+*.exe
+*.msi
+client_secret.json
+google-ads.yaml
+google-ads-temp.yaml
+*.pem
+*.p12
