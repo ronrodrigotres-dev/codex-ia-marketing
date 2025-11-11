@@ -34,3 +34,7 @@ google-ads.yaml
 google-ads-temp.yaml
 *.pem
 *.p12
+
+# salidas
+*_output.csv
+reporte_kpis*.csv
